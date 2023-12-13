@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace WinFormsApp1.models
 {
     internal class Student
-    {
+    { public int MSSV{get;set;}
     }
 }
